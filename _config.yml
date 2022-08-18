@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 title                    : "man on the MOON"
 title_separator          : "|"
 subtitle                 : "Confidence comes from the work you do when nobody’s watching" 
