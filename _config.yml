@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "man on the MOON"
-title_separator          : "|"
-subtitle                 : "Confidence comes from the work you do when nobody’s watching" 
+title_separator          : 
+subtitle                 : 
 name                     : "moon34git"
-description              : "Let's do this"
+description              : 
 url                      : "https://moon34git.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
